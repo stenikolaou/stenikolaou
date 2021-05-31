@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stefanos...
+- 👋 Hi, I’m Stefanos.
 - 👀 I’m interested in mobile app develoment and
 - 🌱 I’m currently learning Kotlin 
 
