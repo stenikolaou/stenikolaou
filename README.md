@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Stefanos
-![](https://images.app.goo.gl/dXgZ68h7Qup1pww8A)
+![](https://github.com/stenikolaou/stenikolaou/blob/main/software_shutterstock_1290773869.jpg)
 
 I currently work as a SQL developer and lately I am really interested in mobile app development.
 
