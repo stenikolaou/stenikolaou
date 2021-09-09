@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Stefanos
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://images.app.goo.gl/dXgZ68h7Qup1pww8A)
 
 I currently work as a SQL developer and lately I am really interested in mobile app development.
 
