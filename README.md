@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Stefanos
+# Hi there 👋, my name is Stefanos
 ## I currently work as a SQL developer and lately I am really interested in mobile app development.
-# Skills: SQL/ Python/ Java
+### Skills: SQL/ Python/ Java
 
 ![](https://github.com/stenikolaou/stenikolaou/blob/main/138475-d1368514fd58db435ac7c9b3272056a7.png)
 
