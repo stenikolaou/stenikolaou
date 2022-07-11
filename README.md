@@ -5,9 +5,6 @@
 ![](https://github.com/stenikolaou/stenikolaou/blob/main/images/banner.png)
 
 
-- 🌱 I’m currently enriching my knowledge on Java. 
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stenikolaou)](https://github.com/anuraghazra/github-readme-stats)
 
