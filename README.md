@@ -1,12 +1,11 @@
 # Hi there 👋, my name is Stefanos
-## I currently work as a SQL developer and lately I am really interested in mobile app development.
+## I currently work as a Big Data Engineer.
 ### Skills: SQL/ Python/ Java
 
 ![](https://github.com/stenikolaou/stenikolaou/blob/main/images/banner.png)
 
 
-- 🔭 I’m currently working on a couple mobile app side projects. 
-- 🌱 I’m currently learning Flutter. 
+- 🌱 I’m currently enriching my knowledge on Java. 
 
 
 
