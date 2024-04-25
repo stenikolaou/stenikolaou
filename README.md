@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Stefanos
-## I currently work as a Big Data Engineer.
-### Skills: SQL/ Python/ Java
+## I currently work as a Senior Analytics Engineer.
+### Skills: SQL/ Python/ Scala
 
 ![](https://github.com/stenikolaou/stenikolaou/blob/main/images/banner.png)
 
